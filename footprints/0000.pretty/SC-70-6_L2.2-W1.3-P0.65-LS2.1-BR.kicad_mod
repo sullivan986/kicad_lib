@@ -1,6 +1,6 @@
-(footprint "SC-70-6_L2.2-W1.3-P0.65-LS2.1-BR" (version 20230620) (generator pcbnew)
+(footprint "SC-70-6_L2.2-W1.3-P0.65-LS2.1-BR" (version 20231007) (generator pcbnew)
   (layer "F.Cu")
-  (property "Reference" "REF**" (at 0 -3.207 0) (layer "F.SilkS") (tstamp 06c5ffa6-f422-4e8b-9233-2fe425ea1d2a)
+  (property "Reference" "REF**" (at 0 -3.207 0) (layer "F.SilkS") hide (tstamp 06c5ffa6-f422-4e8b-9233-2fe425ea1d2a)
     (effects (font (size 1 1) (thickness 0.15)) (justify left))
   )
   (property "Value" "std:6d197ede59b54b12a1f898cba445c43f" (at 0 -0.667 0) (layer "F.Fab") (tstamp 7a2b2ead-f08e-4de6-b62d-2e9be91afdbc)

@@ -1,6 +1,6 @@
-(footprint "SMA_L4.3-W2.5-LS5.0-RD" (version 20230730) (generator pcbnew)
+(footprint "SMA_L4.3-W2.5-LS5.0-RD" (version 20231007) (generator pcbnew)
   (layer "F.Cu")
-  (property "Reference" "REF**" (at 0 -3.207 0) (layer "F.SilkS") (tstamp 8c0084f4-5867-4770-849d-90307ec5b454)
+  (property "Reference" "REF**" (at 0 -3.207 0) (layer "F.SilkS") hide (tstamp 8c0084f4-5867-4770-849d-90307ec5b454)
     (effects (font (size 1 1) (thickness 0.15)) (justify left))
   )
   (property "Value" "std:843852beeeb646dd9804a99e28c2f069" (at 0 -0.667 0) (layer "F.Fab") (tstamp 15914cea-e24f-41a6-8628-01d124721961)

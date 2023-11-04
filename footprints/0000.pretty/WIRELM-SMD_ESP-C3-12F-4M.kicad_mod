@@ -1,6 +1,6 @@
-(footprint "WIRELM-SMD_ESP-C3-12F-4M" (version 20230620) (generator pcbnew)
+(footprint "WIRELM-SMD_ESP-C3-12F-4M" (version 20231007) (generator pcbnew)
   (layer "F.Cu")
-  (property "Reference" "REF**" (at 0 -3.207 0) (layer "F.SilkS") (tstamp 01fd8a31-b454-4478-aa5f-19519f396273)
+  (property "Reference" "REF**" (at 0 -3.207 0) (layer "F.SilkS") hide (tstamp 01fd8a31-b454-4478-aa5f-19519f396273)
     (effects (font (size 1 1) (thickness 0.15)) (justify left))
   )
   (property "Value" "std:8c6158ee17ec41059f0cec55038c004f" (at 0 -0.667 0) (layer "F.Fab") (tstamp c9d866e8-cb13-40dd-a43f-1abd31a108ff)

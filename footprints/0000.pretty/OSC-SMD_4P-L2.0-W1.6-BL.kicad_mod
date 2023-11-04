@@ -1,6 +1,6 @@
-(footprint "OSC-SMD_4P-L2.0-W1.6-BL" (version 20230620) (generator pcbnew)
+(footprint "OSC-SMD_4P-L2.0-W1.6-BL" (version 20231007) (generator pcbnew)
   (layer "F.Cu")
-  (property "Reference" "REF**" (at 0 -3.207 0) (layer "F.SilkS") (tstamp 3f2eee99-6235-47bb-be3b-ec6f08ef6f9f)
+  (property "Reference" "REF**" (at 0 -3.207 0) (layer "F.SilkS") hide (tstamp 3f2eee99-6235-47bb-be3b-ec6f08ef6f9f)
     (effects (font (size 1 1) (thickness 0.15)) (justify left))
   )
   (property "Value" "std:021173fcc85544a98dbea55961a0daae" (at 0 -0.667 0) (layer "F.Fab") (tstamp 52c0485f-9590-43f2-bc73-2e9857a0f885)

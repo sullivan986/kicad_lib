@@ -1,6 +1,6 @@
-(footprint "IND-SMD_L2.0-W1.6" (version 20230620) (generator pcbnew)
+(footprint "IND-SMD_L2.0-W1.6" (version 20231007) (generator pcbnew)
   (layer "F.Cu")
-  (property "Reference" "REF**" (at 0 -3.207 0) (layer "F.SilkS") (tstamp 03ef9022-fc49-4763-a5de-7e2aa60dd9a7)
+  (property "Reference" "REF**" (at 0 -3.207 0) (layer "F.SilkS") hide (tstamp 03ef9022-fc49-4763-a5de-7e2aa60dd9a7)
     (effects (font (size 1 1) (thickness 0.15)) (justify left))
   )
   (property "Value" "std:2913bc4dd4a6497b86bc7c16e187f46a" (at 0 -0.667 0) (layer "F.Fab") (tstamp 19dbf559-04b3-47f7-9a5b-f443924b4560)

@@ -1,6 +1,6 @@
-(footprint "CONN-TH_XT30PW-M" (version 20230620) (generator pcbnew)
+(footprint "CONN-TH_XT30PW-M" (version 20231007) (generator pcbnew)
   (layer "F.Cu")
-  (property "Reference" "REF**" (at -1.5 2.8 0) (layer "F.SilkS") (tstamp 4bb26301-8d75-4dcf-a353-9578d9ee61d4)
+  (property "Reference" "REF**" (at -1.5 2.8 0) (layer "F.SilkS") hide (tstamp 4bb26301-8d75-4dcf-a353-9578d9ee61d4)
     (effects (font (size 1 1) (thickness 0.15)) (justify left))
   )
   (property "Value" "std:baf2517fd99744ddb1d75451575bc1ce" (at 0 -0.667 0) (layer "F.Fab") (tstamp 5889177f-c2e1-4e25-bd41-1b84b5e00dcb)

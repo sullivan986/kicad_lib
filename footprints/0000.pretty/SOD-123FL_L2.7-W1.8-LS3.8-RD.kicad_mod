@@ -1,6 +1,6 @@
-(footprint "SOD-123FL_L2.7-W1.8-LS3.8-RD" (version 20230730) (generator pcbnew)
+(footprint "SOD-123FL_L2.7-W1.8-LS3.8-RD" (version 20231007) (generator pcbnew)
   (layer "F.Cu")
-  (property "Reference" "REF**" (at 0 -3.207 0) (layer "F.SilkS") (tstamp 8d6a17e1-372c-4eb6-a8c6-7fc247582a15)
+  (property "Reference" "REF**" (at 0 -3.207 0) (layer "F.SilkS") hide (tstamp 8d6a17e1-372c-4eb6-a8c6-7fc247582a15)
     (effects (font (size 1 1) (thickness 0.15)) (justify left))
   )
   (property "Value" "std:9a1dcdbe55124b3a9a6968961332b55b" (at 0 -0.667 0) (layer "F.Fab") (tstamp 013c5410-c275-450e-9c45-21bc7135eab7)

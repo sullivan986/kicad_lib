@@ -1,6 +1,6 @@
-(footprint "IND-SMD_L10.8-W10.0_SLO1040H" (version 20230730) (generator pcbnew)
+(footprint "IND-SMD_L10.8-W10.0_SLO1040H" (version 20231007) (generator pcbnew)
   (layer "F.Cu")
-  (property "Reference" "REF**" (at 0 -3.207 0) (layer "F.SilkS") (tstamp 7e4b46b3-c961-4cf8-8677-c294930a8dac)
+  (property "Reference" "REF**" (at 0 -3.207 0) (layer "F.SilkS") hide (tstamp 7e4b46b3-c961-4cf8-8677-c294930a8dac)
     (effects (font (size 1 1) (thickness 0.15)) (justify left))
   )
   (property "Value" "std:95ef581d537148c2bc3046ed9dfb8763" (at 0 -0.667 0) (layer "F.Fab") (tstamp eb1ae148-67e1-4014-80e9-c52c2912abf3)

@@ -1,6 +1,6 @@
-(footprint "SW-SMD_4P-L4.2-W3.3-P2.15-LS5.1" (version 20230620) (generator pcbnew)
+(footprint "SW-SMD_4P-L4.2-W3.3-P2.15-LS5.1" (version 20231007) (generator pcbnew)
   (layer "F.Cu")
-  (property "Reference" "REF**" (at 0 -3.207 0) (layer "F.SilkS") (tstamp 8a474ff5-e1ac-49c4-a7c4-67978538500a)
+  (property "Reference" "REF**" (at 0 -3.207 0) (layer "F.SilkS") hide (tstamp 8a474ff5-e1ac-49c4-a7c4-67978538500a)
     (effects (font (size 1 1) (thickness 0.15)) (justify left))
   )
   (property "Value" "std:58b08a6297cb49c8a1d66076aac66b2f" (at 0 -0.667 0) (layer "F.Fab") hide (tstamp a9c8f59e-64b0-4a93-9f8d-025c80e8aebc)

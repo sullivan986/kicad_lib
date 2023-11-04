@@ -1,6 +1,6 @@
-(footprint "TSSOP-20_L6.5-W4.4-P0.65-LS6.4-BL" (version 20230620) (generator pcbnew)
+(footprint "TSSOP-20_L6.5-W4.4-P0.65-LS6.4-BL" (version 20231007) (generator pcbnew)
   (layer "F.Cu")
-  (property "Reference" "REF**" (at -1.905 0 0 unlocked) (layer "F.SilkS") (tstamp ca1da6e0-2849-4d97-8d54-84023717b0dc)
+  (property "Reference" "REF**" (at -1.905 0 0 unlocked) (layer "F.SilkS") hide (tstamp ca1da6e0-2849-4d97-8d54-84023717b0dc)
     (effects (font (size 1 1) (thickness 0.1)) (justify left))
   )
   (property "Value" "std:1586800a83194e228c6527ad76c86945" (at 0 -0.667 0 unlocked) (layer "F.Fab") (tstamp a3c2661f-b7da-4338-b784-a78bd52e646d)

@@ -1,6 +1,6 @@
-(footprint "ANT_CROSSAIR_CA-C03" (version 20230620) (generator pcbnew)
+(footprint "ANT_CROSSAIR_CA-C03" (version 20231007) (generator pcbnew)
   (layer "F.Cu")
-  (property "Reference" "REF**" (at 0 -3.207 0) (layer "F.SilkS") (tstamp b6e5e57e-7aaa-47e0-a0b5-e73d91284a83)
+  (property "Reference" "REF**" (at 0 -3.207 0) (layer "F.SilkS") hide (tstamp b6e5e57e-7aaa-47e0-a0b5-e73d91284a83)
     (effects (font (size 1 1) (thickness 0.15)) (justify left))
   )
   (property "Value" "std:2e1b3335763947feb039ddc14c21534f" (at 0 -0.667 0) (layer "F.Fab") (tstamp 70edc4d6-50fc-4fc4-897a-bdfc6ce0c394)

@@ -1,6 +1,6 @@
-(footprint "CAP-SMD_BD6.3-L6.6-W6.6-LS7.4-FD" (version 20230730) (generator pcbnew)
+(footprint "CAP-SMD_BD6.3-L6.6-W6.6-LS7.4-FD" (version 20231007) (generator pcbnew)
   (layer "F.Cu")
-  (property "Reference" "REF**" (at -1.8 -1.6 0) (layer "F.SilkS") (tstamp 7d8fee88-8b38-4167-b24d-be37e078d2ba)
+  (property "Reference" "REF**" (at -1.8 -1.6 0) (layer "F.SilkS") hide (tstamp 7d8fee88-8b38-4167-b24d-be37e078d2ba)
     (effects (font (size 1 1) (thickness 0.15)) (justify left))
   )
   (property "Value" "std:8cf019b9b9ac4ee68c1430830e315d0c" (at 0 -0.667 0) (layer "F.Fab") (tstamp 692adf11-780e-400f-89e9-f6946ff71602)

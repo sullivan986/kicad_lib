@@ -1,6 +1,6 @@
-(footprint "QFN-32_L5.0-W5.0-P0.50-BL-EP3.7" (version 20230620) (generator pcbnew)
+(footprint "QFN-32_L5.0-W5.0-P0.50-BL-EP3.7" (version 20231007) (generator pcbnew)
   (layer "F.Cu")
-  (property "Reference" "REF**" (at -1.2 -3.7 0) (layer "F.SilkS") (tstamp b997e4d0-bdfe-46c2-8ba4-f3bb39551dc1)
+  (property "Reference" "REF**" (at -1.2 -3.7 0) (layer "F.SilkS") hide (tstamp b997e4d0-bdfe-46c2-8ba4-f3bb39551dc1)
     (effects (font (size 1 1) (thickness 0.15)) (justify left))
   )
   (property "Value" "std:843154b214104e6f8d63ffbb8e4a85d6" (at 0 -0.667 0) (layer "F.Fab") (tstamp 78d01053-43eb-41d4-84c3-28721060a8e1)

@@ -1,6 +1,6 @@
-(footprint "SOT-23-5_L2.9-W1.6-P0.95-LS2.8-BR" (version 20230620) (generator pcbnew)
+(footprint "SOT-23-5_L2.9-W1.6-P0.95-LS2.8-BR" (version 20231007) (generator pcbnew)
   (layer "F.Cu")
-  (property "Reference" "REF**" (at 0 -3.207 0) (layer "F.SilkS") (tstamp d6d071e8-eb76-4234-863b-e693e87e348a)
+  (property "Reference" "REF**" (at 0 -3.207 0) (layer "F.SilkS") hide (tstamp d6d071e8-eb76-4234-863b-e693e87e348a)
     (effects (font (size 1 1) (thickness 0.15)) (justify left))
   )
   (property "Value" "std:0578b39d94674c0886345dcbf3a746c7" (at 0 -0.667 0) (layer "F.Fab") (tstamp 1dbfa641-cbdb-452a-9abc-3bcedd028cef)

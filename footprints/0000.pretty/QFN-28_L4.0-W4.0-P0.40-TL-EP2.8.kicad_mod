@@ -1,6 +1,6 @@
-(footprint "QFN-28_L4.0-W4.0-P0.40-TL-EP2.8" (version 20230620) (generator pcbnew)
+(footprint "QFN-28_L4.0-W4.0-P0.40-TL-EP2.8" (version 20231007) (generator pcbnew)
   (layer "F.Cu")
-  (property "Reference" "REF**" (at 0 -3.207 0) (layer "F.SilkS") (tstamp 0deabee8-9b64-407b-a84c-6a88ef89ffea)
+  (property "Reference" "REF**" (at 0 -3.207 0) (layer "F.SilkS") hide (tstamp 0deabee8-9b64-407b-a84c-6a88ef89ffea)
     (effects (font (size 1 1) (thickness 0.15)) (justify left))
   )
   (property "Value" "std:3355ea6c3add405495759e19ec83cc93" (at 0 -0.667 0) (layer "F.Fab") (tstamp af9e343b-bccc-48f7-b313-ce93d48c3353)

@@ -1,6 +1,6 @@
-(footprint "CONN-SMD_24P-P0.40_PANASONIC_AXE524127D" (version 20230620) (generator pcbnew)
+(footprint "CONN-SMD_24P-P0.40_PANASONIC_AXE524127D" (version 20231007) (generator pcbnew)
   (layer "F.Cu")
-  (property "Reference" "REF**" (at -1.8 0 0) (layer "F.SilkS") (tstamp 71bfff0b-80f4-4537-97ea-f50fb88284bc)
+  (property "Reference" "REF**" (at -1.8 0 0) (layer "F.SilkS") hide (tstamp 71bfff0b-80f4-4537-97ea-f50fb88284bc)
     (effects (font (size 1 1) (thickness 0.15)) (justify left))
   )
   (property "Value" "std:6fe4f1dde70842e5bc82348750fa3ddd" (at 0 0.667 0) (layer "F.Fab") (tstamp 57b32046-9f82-4710-88e0-b15519f5d46e)

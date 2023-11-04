@@ -1,6 +1,6 @@
-(footprint "PDFN-8_L5.9-W5.2-P1.27-LS6.2-BL" (version 20230620) (generator pcbnew)
+(footprint "PDFN-8_L5.9-W5.2-P1.27-LS6.2-BL" (version 20231007) (generator pcbnew)
   (layer "F.Cu")
-  (property "Reference" "REF**" (at -1.905 4.445 0) (layer "F.SilkS") (tstamp 4fe05633-2c42-4477-86d4-50af3ddbe4cc)
+  (property "Reference" "REF**" (at -1.905 4.445 0) (layer "F.SilkS") hide (tstamp 4fe05633-2c42-4477-86d4-50af3ddbe4cc)
     (effects (font (size 1 1) (thickness 0.15)) (justify left))
   )
   (property "Value" "std:ba3a32f4b2704d0580c74aa3255c4c35" (at 0 -0.667 0) (layer "F.Fab") (tstamp cb5fdb45-b593-41fd-bb47-a4dd8e3fe73f)
