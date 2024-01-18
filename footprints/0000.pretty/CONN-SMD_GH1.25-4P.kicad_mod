@@ -94,7 +94,7 @@
   (pad "6" smd rect (at 3.725 1.6) (size 1 2.7) (layers "F.Cu" "F.Paste" "F.Mask")
     (tstamp 93ae2b8d-e9b2-4da8-9103-7e9cddae701a)
   )
-  (model "C:/Users/tim/Desktop/tools/code/os/kicad_lib/3d/CONN-SMD_GH1.25-4P.wrl"
+  (model "F:/code/open-source/kicad_lib/3d/CONN-SMD_GH1.25-4P.wrl"
     (offset (xyz 0 0 4))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

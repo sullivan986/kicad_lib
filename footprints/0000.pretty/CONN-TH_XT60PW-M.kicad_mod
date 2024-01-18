@@ -109,7 +109,7 @@
   (pad "4" thru_hole oval (at -3 6.75 90) (size 1.2 2.2) (drill oval 0.6 1.6) (layers "*.Cu" "*.Mask")
     (tstamp 6396f059-149c-4938-b970-999254349488)
   )
-  (model "C:/Users/tim/Desktop/tools/code/os/kicad_lib/3d/CONN-TH_XT60PW-M.wrl"
+  (model "F:/code/open-source/kicad_lib/3d/CONN-TH_XT60PW-M.wrl"
     (offset (xyz -4 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

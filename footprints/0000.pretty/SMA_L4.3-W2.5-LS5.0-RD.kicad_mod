@@ -72,7 +72,7 @@
   (pad "2" smd rect (at 2.1 0 180) (size 2 1.593) (layers "F.Cu" "F.Paste" "F.Mask")
     (tstamp c33f9f94-9710-40db-8f5b-ab9365ee1deb)
   )
-  (model "C:/Users/tim/Desktop/tools/code/os/kicad_lib/3d/SMA_L4.3-W2.5-LS5.0-RD.wrl"
+  (model "F:/code/open-source/kicad_lib/3d/SMA_L4.3-W2.5-LS5.0-RD.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

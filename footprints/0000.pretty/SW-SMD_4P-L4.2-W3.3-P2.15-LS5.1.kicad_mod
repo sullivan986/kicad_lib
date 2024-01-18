@@ -70,7 +70,7 @@
   (pad "4" smd rect (at 2.25 1.075 90) (size 0.7 1.3) (layers "F.Cu" "F.Paste" "F.Mask")
     (tstamp fba22756-5785-4bee-84b9-1470b9163a7b)
   )
-  (model "C:/Users/tim/Desktop/tools/code/os/kicad_lib/3d/SW-SMD_4P-L4.2-W3.2-P2.15-LS5.2.wrl"
+  (model "F:/code/open-source/kicad_lib/3d/SW-SMD_4P-L4.2-W3.2-P2.15-LS5.2.wrl"
     (offset (xyz 0 0 1.5))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

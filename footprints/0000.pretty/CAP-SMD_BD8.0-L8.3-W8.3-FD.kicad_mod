@@ -76,7 +76,7 @@
   (pad "2" smd rect (at 3.267 0) (size 4.2 1.4) (layers "F.Cu" "F.Paste" "F.Mask")
     (tstamp 0425f0df-aca0-41af-9ebc-1d4f2f3736fb)
   )
-  (model "C:/Users/tim/Desktop/tools/code/os/kicad_lib/3d/CAP-SMD_BD8.0-L8.3-W8.3-FD.wrl"
+  (model "F:/code/open-source/kicad_lib/3d/CAP-SMD_BD8.0-L8.3-W8.3-FD.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 180))

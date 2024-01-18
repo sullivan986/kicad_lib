@@ -30,7 +30,7 @@
   (pad "1" smd rect (at 0 0) (size 1.2 2) (layers "F.Cu" "F.Paste" "F.Mask")
     (tstamp 2795c178-00d9-4b4d-9ffa-7f2e2917f772)
   )
-  (model "C:/Users/tim/Desktop/tools/code/os/kicad_lib/3d/CrossAir CA-C03.wrl"
+  (model "F:/code/open-source/kicad_lib/3d/CrossAir CA-C03.wrl"
     (offset (xyz -0.25 -1 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

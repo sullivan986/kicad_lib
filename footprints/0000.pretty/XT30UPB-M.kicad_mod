@@ -37,7 +37,7 @@
   (pad "2" smd oval (at 2.5 0) (size 2.75 4) (layers "F.Cu" "F.Paste" "F.Mask")
     (tstamp fbc0f127-7b08-4c51-9ba4-6e3ff0ba8ac1)
   )
-  (model "C:/Users/tim/Desktop/tools/code/os/kicad_lib/3d/CONN-TH_XT30UPB-M.wrl"
+  (model "F:/code/open-source/kicad_lib/3d/CONN-TH_XT30UPB-M.wrl"
     (offset (xyz 0 2.2 0.8))
     (scale (xyz 1 1 1))
     (rotate (xyz 90 0 0))

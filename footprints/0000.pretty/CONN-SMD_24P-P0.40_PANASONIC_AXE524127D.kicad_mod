@@ -336,7 +336,7 @@
   (pad "Z2" smd rect (at 3.2 1.11) (size 0.9 0.9) (layers "F.Cu" "F.Paste" "F.Mask")
     (tstamp 1adf5c93-ff71-4f03-aadd-097b374e3ede)
   )
-  (model "C:/Users/tim/Desktop/tools/code/os/kicad_lib/3d/CONN-SMD_24P-P0.40_PANASONIC_AXE524127D.wrl"
+  (model "F:/code/open-source/kicad_lib/3d/CONN-SMD_24P-P0.40_PANASONIC_AXE524127D.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

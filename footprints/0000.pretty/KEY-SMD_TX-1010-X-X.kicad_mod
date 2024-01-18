@@ -106,7 +106,7 @@
   (pad "4" smd rect (at 2.1 -0.975 270) (size 1.3 1.2) (layers "F.Cu" "F.Paste" "F.Mask")
     (tstamp 32340111-5b9d-4604-9a66-6c3048541c63)
   )
-  (model "C:/Users/tim/Desktop/tools/code/os/kicad_lib/3d/TL3330AF130QG--3DModel-STEP-269445.STEP"
+  (model "F:/code/open-source/kicad_lib/3d/TL3330AF130QG--3DModel-STEP-269445.STEP"
     (offset (xyz 0 0 0))
     (scale (xyz 0.7 0.6 1.2))
     (rotate (xyz -90 0 -180))

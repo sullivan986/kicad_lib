@@ -1,0 +1,14 @@
+{
+  "MultiLineText": "sullivan",
+  "HeightCtrl": "0.6",
+  "FontComboBox": "mplus-1mn-medium",
+  "LayerComboBox": "F.SilkS",
+  "CapLeftChoice": "\\",
+  "CapRightChoice": "\\",
+  "PaddingTopCtrl": "5",
+  "PaddingLeftCtrl": "5",
+  "PaddingRightCtrl": "5",
+  "PaddingBottomCtrl": "5",
+  "WidthCtrl": "",
+  "AlignmentChoice": "Center"
+}

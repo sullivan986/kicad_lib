@@ -213,7 +213,7 @@
   (pad "9" smd rect (at 2.169 0.465) (size 0.95 0.5) (layers "F.Cu" "F.Paste" "F.Mask")
     (tstamp 7caccc9c-465a-493a-a379-ecd9b38913c0)
   )
-  (model "C:/Users/tim/Desktop/tools/code/os/kicad_lib/3d/PDFN-8_L5.9-W5.2-P1.27-LS6.2-BL.wrl"
+  (model "F:/code/open-source/kicad_lib/3d/PDFN-8_L5.9-W5.2-P1.27-LS6.2-BL.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

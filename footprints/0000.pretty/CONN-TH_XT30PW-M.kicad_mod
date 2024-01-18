@@ -218,7 +218,7 @@
   (pad "4" thru_hole circle (at -5.5 5) (size 1.8 1.8) (drill 1.1) (layers "*.Cu" "*.Mask")
     (tstamp 85d03b26-ecbe-48c4-822e-36badc018729)
   )
-  (model "C:/Users/tim/Desktop/tools/code/os/kicad_lib/3d/CONN-TH_XT30PW-M.wrl"
+  (model "F:/code/open-source/kicad_lib/3d/CONN-TH_XT30PW-M.wrl"
     (offset (xyz 0 -3.5 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
